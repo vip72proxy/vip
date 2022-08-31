@@ -1,0 +1,92 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #000000; PADDING-TOP: 0px
+}
+BR {
+	FONT-SIZE: 10px
+}
+.s {
+	FONT-SIZE: 10px; COLOR: #767676; FONT-FAMILY: Tahoma
+}
+.s1 {
+	FONT-SIZE: 11px; COLOR: #858585; FONT-FAMILY: Tahoma
+}
+.green {
+	FONT-SIZE: 11px; COLOR: #9ce438; FONT-FAMILY: Tahoma
+}
+.red {
+	FONT-SIZE: 11px; COLOR: #2c7f06; FONT-FAMILY: Tahoma
+}
+.o {
+	FONT-SIZE: 11px; COLOR: #ffcc00; FONT-FAMILY: Tahoma
+}
+.blue {
+	FONT-SIZE: 10px; COLOR: #c2c2c2; FONT-FAMILY: Tahoma
+}
+.blue1 {
+	FONT-SIZE: 11px; COLOR: #e9eef3; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.blue2 {
+	FONT-SIZE: 11px; COLOR: #346995; FONT-FAMILY: Tahoma
+}
+.w {
+	FONT-SIZE: 11px; COLOR: #e6e6e6; FONT-FAMILY: Tahoma
+}
+.w1 {
+	FONT-SIZE: 11px; COLOR: #b5b5b5; FONT-FAMILY: Tahoma
+}
+.b {
+	FONT-SIZE: 11px; COLOR: #474747; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.b1 {
+	FONT-SIZE: 11px; COLOR: #5a5a5a; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+
+.b2 {
+	FONT-SIZE: 10px; COLOR: #5a5a5a; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+
+.mn {
+	FONT-SIZE: 11px; COLOR: #222222; FONT-FAMILY: sans-serif; TEXT-DECORATION: none
+}
+A IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+#input {
+	WIDTH: 160px; HEIGHT: 21px
+}
+#input1 {
+	WIDTH: 134px; HEIGHT: 21px
+}
+#textarea {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; OVERFLOW: auto; BORDER-LEFT: medium none; WIDTH: 102px; BORDER-BOTTOM: medium none; HEIGHT: 48px; BACKGROUND-COLOR: #f0eae3
+}
+A:link.txt  {
+	FONT-SIZE: 11px; COLOR: #246E65; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A:visited.txt  {
+	FONT-SIZE: 11px; COLOR: #246E65; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A:hover.txt  {
+	FONT-SIZE: 11px; COLOR: #549E95; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+
+A:link.txt2 {
+	FONT-SIZE: 11px; COLOR: #D0D0D0; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A:visited.txt2 {
+	FONT-SIZE: 11px; COLOR: #D0D0D0; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A:hover.txt2 {
+	FONT-SIZE: 11px; COLOR: #FFFFFF; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+
+A:link.txt5  {
+	FONT-SIZE: 11px; COLOR: #13FF13; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A:visited.txt5  {
+	FONT-SIZE: 11px; COLOR: #13FF13; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A:hover.txt5  {
+	FONT-SIZE: 11px; COLOR: #549E95; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+
